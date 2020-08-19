@@ -1,5 +1,15 @@
 ### Hi there, I am Xiao Qinfeng (肖钦峰)! 👋
 
+#### 🔭 I’m currently pursuing a Master degree in Computer Science at Beijing Jiaotong University.
+
+#### 🌱 My research interests include:
+- Anomaly Detection
+- Temporal Data Mining
+- Unsupervised Learning
+
+#### 📫 You can contact me by:
+- ![Email](qfxiao@bjtu.edu.cn)
+
 
 ![larryshaw's github stats](https://github-readme-stats.vercel.app/api?username=larryshaw0079)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larryshaw0079)
