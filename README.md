@@ -8,7 +8,7 @@
 - Unsupervised Learning
 
 #### 📫 You can contact me by:
-- ![Email](qfxiao@bjtu.edu.cn)
+- Email: qfxiao@bjtu.edu.cn
 
 
 ![larryshaw's github stats](https://github-readme-stats.vercel.app/api?username=larryshaw0079)
