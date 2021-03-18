@@ -6,6 +6,7 @@
 - Anomaly Detection
 - Temporal Data Mining
 - Unsupervised Learning
+- Self-supervised Learning (for Physiological )
 
 #### 📫 You can contact me by:
 - Email: qfxiao@bjtu.edu.cn
