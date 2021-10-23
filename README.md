@@ -1,6 +1,6 @@
 ### Hi there, I am Xiao Qinfeng (肖钦峰)! 👋
 
-#### 🔭 I’m currently pursuing a Master degree in Computer Science at Beijing Jiaotong University.
+#### 🔭 I'm currently a machine learning engineer at XiaoMi Inc. I received my Master degree from the Department of Computer Science, [Beijing Jiaotong University](http://en.bjtu.edu.cn/), under the supervision of [Prof. Jing Wang](https://scholar.google.com.tw/citations?user=GIbxn34AAAAJ&hl=zh-CN&oi=ao). My research interests include **Anomaly Detection**, **Self-supervised** / **Unsupervised Learning** and **Deep Learning Methods for Physiological Time-series**. Recently I am focusing on *learning semantic representations for physiological time-series*.
 
 #### 🌱 My research interests include:
 - Anomaly Detection
@@ -10,6 +10,7 @@
 
 #### 📫 You can contact me by:
 - Email: qfxiao@bjtu.edu.cn
+- Website: https://larryshaw0079.github.io
 
 
 ![larryshaw's github stats](https://github-readme-stats.vercel.app/api?username=larryshaw0079)
