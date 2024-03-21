@@ -1,16 +1,17 @@
 ### Hi there, I am Xiao Qinfeng (肖钦峰)! 👋
 
 #### 🔭 Short Bio:
-I'm currently a machine learning engineer at XiaoMi Inc. I received my Master degree from the Department of Computer Science, [Beijing Jiaotong University](http://en.bjtu.edu.cn/), under the supervision of [Prof. Jing Wang](https://scholar.google.com.tw/citations?user=GIbxn34AAAAJ&hl=zh-CN&oi=ao). My research interests include **Anomaly Detection**, **Self-supervised** / **Unsupervised Learning** and **Deep Learning Methods for Physiological Time-series**. Recently I am focusing on *learning semantic representations for physiological time-series*.
+I am currently a Phd candidate of the Hong Kong Polytechnic University (PolyU), supervised by [Prof. Kit Lun Yick](https://www.aidlab.hk/en/people-detail/prof-kit-lun-yick) in [AiDLAB](https://www.aidlab.hk/en/). Before that, I was a machine learning engineer at XiaoMi Inc. I received my Master degree from the Department of Computer Science, [Beijing Jiaotong University](http://en.bjtu.edu.cn/), under the supervision of [Prof. Jing Wang](https://scholar.google.com.tw/citations?user=GIbxn34AAAAJ&hl=zh-CN&oi=ao). My research interests include **3D Vison**, **Anomaly Detection**, **Self-supervised** / **Unsupervised Learning** and **Deep Learning Methods for Physiological Time-series**. Recently I am focusing on *learning semantic representations for physiological time-series*.
 
 #### 🌱 My research interests include:
+- 3D Vision
 - Anomaly Detection
 - Temporal Data Mining
 - Unsupervised Learning
 - Self-supervised Learning (for Physiological Time-series)
 
 #### 📫 You can contact me by:
-- Email: qfxiao@bjtu.edu.cn
+- Email: qin-feng.xiao@connect.polyu.hk
 - Website: https://larryshaw0079.github.io
 
 
